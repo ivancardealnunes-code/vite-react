@@ -1344,3 +1344,5 @@ export default function StudioCalendar() {
     </div>
   );
 }
+
+export default StudioCalendar;
